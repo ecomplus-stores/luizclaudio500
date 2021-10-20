@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Aproveite nossas promoções!!!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "A loja do torcedor carioca!",
+        "link": ""
       }
     ],
     "phone_wpp": true,
@@ -20,7 +20,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
