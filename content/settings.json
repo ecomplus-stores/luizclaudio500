@@ -1,24 +1,24 @@
 {
-  "store_id": 12541,
-  "name": "luizclaudio500",
-  "domain": "luizclaudio500.netlify.app",
-  "short_name": "luizclaudio500",
-  "description": "luizclaudio500",
+  "domain": "www.futrj.com.br",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/luizclaudio500",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "FutRj",
+  "short_name": "Fut.Rj",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/luizclaudio500"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 12541,
+  "description": "A casa do Carioca!",
+  "large_icon": "/img/large-icon.png"
 }
