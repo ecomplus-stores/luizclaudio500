@@ -4,11 +4,11 @@
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
