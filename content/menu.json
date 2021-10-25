@@ -1,6 +1,8 @@
 {
-  "sort_categories": [],
-  "phone_wpp": true,
-  "socials": true,
+  "sort_categories": [
+    "vasco-da-gama"
+  ],
+  "phone_wpp": false,
+  "socials": false,
   "alphabetical_order": true
 }
