@@ -27,6 +27,11 @@
     {
       "type": "product-block",
       "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
