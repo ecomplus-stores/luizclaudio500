@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "product-block",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -18,10 +22,6 @@
     },
     {
       "type": "product-specifications",
-      "enabled": true
-    },
-    {
-      "type": "product-block",
       "enabled": true
     },
     {
