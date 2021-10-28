@@ -17,11 +17,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
       "type": "offers-timer",
       "max_hours": 12,
       "start": "2021-10-28T01:48:33.334Z",
