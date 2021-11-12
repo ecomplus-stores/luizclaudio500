@@ -24,6 +24,12 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "lowest_price"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 12,
+      "start": "2021-11-12T16:16:00.932Z",
+      "end": "2022-01-01T16:16:02.052Z"
     }
   ]
 }
