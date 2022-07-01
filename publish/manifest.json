@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f67060d8a9db7680c6c2d9d8ce9361fd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.86bdd4b864a6a0ef937ebdd669c91447.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b7bd09072e87871adab9f495842b51c6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9a1dd20f0835ba6367a0346d7493d03d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d1a85415874e5d571aaf4e6e24b0c346.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "FutRj",
+  "short_name": "Fut.Rj",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A casa do Carioca!",
+  "background_color": "#ffffff",
+  "theme_color": "#02aded"
+}
